@@ -51,6 +51,7 @@
     "@openzeppelin/contracts-upgradeable": "^5.4.0",
     "dotenv": "^16.5.0",
     "hardhat-contract-sizer": "^2.10.1",
-    "merkletreejs": "^0.6.0"
+    "merkletreejs": "^0.6.0",
+    "node-fetch": "^3.3.2"
   }
 }
